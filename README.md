@@ -1,2 +1,4 @@
 # dkv
-Prinsip-prinsip Desian dan Komunikasi
+MindMap
+Materi Prinsip Dasar Desain & Komunikasi
+index.html
